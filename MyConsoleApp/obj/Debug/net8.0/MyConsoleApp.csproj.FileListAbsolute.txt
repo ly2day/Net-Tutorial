@@ -1,0 +1,14 @@
+C:\Users\jason\OneDrive\Documents\Programming\ACCTMIS 4630\Net Tutorial\MyConsoleApp\bin\Debug\net8.0\MyConsoleApp.exe
+C:\Users\jason\OneDrive\Documents\Programming\ACCTMIS 4630\Net Tutorial\MyConsoleApp\bin\Debug\net8.0\MyConsoleApp.deps.json
+C:\Users\jason\OneDrive\Documents\Programming\ACCTMIS 4630\Net Tutorial\MyConsoleApp\bin\Debug\net8.0\MyConsoleApp.runtimeconfig.json
+C:\Users\jason\OneDrive\Documents\Programming\ACCTMIS 4630\Net Tutorial\MyConsoleApp\bin\Debug\net8.0\MyConsoleApp.dll
+C:\Users\jason\OneDrive\Documents\Programming\ACCTMIS 4630\Net Tutorial\MyConsoleApp\bin\Debug\net8.0\MyConsoleApp.pdb
+C:\Users\jason\OneDrive\Documents\Programming\ACCTMIS 4630\Net Tutorial\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jason\OneDrive\Documents\Programming\ACCTMIS 4630\Net Tutorial\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.AssemblyInfoInputs.cache
+C:\Users\jason\OneDrive\Documents\Programming\ACCTMIS 4630\Net Tutorial\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.AssemblyInfo.cs
+C:\Users\jason\OneDrive\Documents\Programming\ACCTMIS 4630\Net Tutorial\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\jason\OneDrive\Documents\Programming\ACCTMIS 4630\Net Tutorial\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.dll
+C:\Users\jason\OneDrive\Documents\Programming\ACCTMIS 4630\Net Tutorial\MyConsoleApp\obj\Debug\net8.0\refint\MyConsoleApp.dll
+C:\Users\jason\OneDrive\Documents\Programming\ACCTMIS 4630\Net Tutorial\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.pdb
+C:\Users\jason\OneDrive\Documents\Programming\ACCTMIS 4630\Net Tutorial\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.genruntimeconfig.cache
+C:\Users\jason\OneDrive\Documents\Programming\ACCTMIS 4630\Net Tutorial\MyConsoleApp\obj\Debug\net8.0\ref\MyConsoleApp.dll
